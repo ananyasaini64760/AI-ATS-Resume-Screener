@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+nltk
+scikit-learn
+spacy
+python-dotenv
+openai
+reportlab
